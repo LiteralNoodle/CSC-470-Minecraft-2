@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"M:/programming/UE Projects/Minecraft_2_Matthew/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"M:/programming/UE Projects/Minecraft_2_Matthew/Content/SelkContent/M_Chromatic_Aberration.uasset",
+				"M:/programming/UE Projects/Minecraft_2_Matthew/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"M:/programming/UE Projects/Minecraft_2_Matthew/Content/SelkContent/M_Chromatic_Aberration_Radial.uasset"
+			]
+		}
+	]
+}
